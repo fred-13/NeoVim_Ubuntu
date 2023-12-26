@@ -7,7 +7,7 @@
 ## Configuration NeoVim
 ```bash
     mkdir -p ~/.config/nvim
-    mv -v * ~/.config/nvim
+    cp -vr NeoVim_Ubuntu/* ~/.config/nvim
 ```
 ## Install NeoVim
 ```bash
